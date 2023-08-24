@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+example1 file done
+=======
 example1 file doing
+>>>>>>> origin/master
